@@ -1,8 +1,8 @@
 ---
-title: "Welcome to Jekyll!"
-published: false
+title: "Welcome to firefoxnx's blog!"
+published: true
 ---
 
-**Hello world**, this is my first Jekyll blog post.
+**Hello world**, this is my first blog post.
 
 I hope you like it!
